@@ -1,4 +1,4 @@
-# Q's LLM Skills (tested on Claude)
+# Q's Agent Skills (tested on Claude)
 
 `/spec` - human-driven spec dev workflow. a good spec prevents many an implementation trouble. 
 
