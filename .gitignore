@@ -1,3 +1,14 @@
 # Local skill configs (contain machine-specific paths)
 **/config.local.md
+**/*.local.md
+**/*.local.*
+
+# Private dirs if they ever appear under a skill
+**/dev/
+**/notes/
+**/private/
+**/papertrail/
+**/.claude/
+
 .DS_Store
+**/*.swp
